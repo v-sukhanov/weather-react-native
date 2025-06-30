@@ -4,7 +4,11 @@ import { Alert } from "react-native";
 import Loading from "./components/Loading";
 import Weather from "./components/Weather";
 
-const API_KEY = '5df1cadcf722c3e9b17ae88e40cf192d'
+const API_KEY = process.env.EXPO_PUBLIC_WEATHER_API_KEY;
+
+if (!API_KEY) {
+  throw new Error('EXPO_PUBLIC_WEATHER_API_KEY is not defined. Please check your .env file.');
+}
 
 export type WeatherCondition = 'Thunderstorm' | 'Drizzle' | 'Rain' | 'Snow' | 'Mist' | 'Smoke' | 'Haze' | 'Dust' | 'Fog' | 'Sand' | 'Ash' | 'Squall' | 'Tornado' | 'Clear' | 'Clouds';
 

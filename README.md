@@ -73,10 +73,13 @@
    - Get your API key
 
 4. **Configure API Key**
-   - Open `app/index.tsx`
-   - Replace `'your_api_key_here'` with your actual API key:
-   ```typescript
-   const API_KEY = 'your_actual_api_key_here'
+   - Copy the environment template:
+   ```bash
+   cp .env.example .env
+   ```
+   - Open `.env` file and replace with your actual API key:
+   ```
+   EXPO_PUBLIC_WEATHER_API_KEY=your_actual_api_key_here
    ```
 
 5. **Start the development server**
