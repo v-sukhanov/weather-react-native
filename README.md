@@ -2,7 +2,7 @@
 
 | Screenshot  1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) |
+| ![WithFrame - shot](https://github.com/user-attachments/assets/de44a78e-fc13-4af3-8263-15cf9bf67db8) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) |
 
 
 
