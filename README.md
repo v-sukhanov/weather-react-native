@@ -1,5 +1,5 @@
 # 🌤️ Weather React Native App
-![image](https://github.com/user-attachments/assets/81963fcd-94cb-4ea5-af20-698c027f7384)
+| ![image](https://github.com/user-attachments/assets/2bf72765-1b25-412f-ae4a-3cf77b77dd08) | Скриншот 2 | Скриншот 3 | Скриншот 4 |
 
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
