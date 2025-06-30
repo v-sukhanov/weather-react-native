@@ -1,1 +1,1 @@
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-30 at 11 22 18](https://github.com/user-attachments/assets/49480529-be0f-45aa-88f9-157f7583c4c2)
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/082a6eab-0b5f-4226-85e3-e65c0591986c" />
