@@ -1,8 +1,8 @@
 # 🌤️ Weather React Native App
 
-| Screenshot  1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
-|---|---|---|---|
-| ![WithFrame - shot](https://github.com/user-attachments/assets/de44a78e-fc13-4af3-8263-15cf9bf67db8) | ![WithFrame - shot (1)](https://github.com/user-attachments/assets/7a368f09-b36f-4f86-9e41-cf0de8aa5043) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) | ![image](https://github.com/user-attachments/assets/c671fbb0-777f-4548-958d-2e022189f1df) |
+| Screenshot  1 | Screenshot 2 |
+|---|---|
+| ![WithFrame - shot](https://github.com/user-attachments/assets/de44a78e-fc13-4af3-8263-15cf9bf67db8) | ![WithFrame - shot (1)](https://github.com/user-attachments/assets/7a368f09-b36f-4f86-9e41-cf0de8aa5043) | 
 
 
 
